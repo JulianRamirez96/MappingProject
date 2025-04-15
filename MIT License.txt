@@ -1,0 +1,28 @@
+
+This README provides:
+1. Project overview and features
+2. Installation instructions
+3. Usage guide
+4. Project structure
+5. Detailed git setup steps
+6. Security considerations
+
+To properly upload to GitHub:
+1. Make sure `.env` is in your `.gitignore`
+2. Only commit the example environment file
+3. Use `git status` to verify no sensitive files are staged
+4. Follow the git setup steps exactly as shown
+5. Verify the push was successful and no API keys were exposedThis README provides:
+1. Project overview and features
+2. Installation instructions
+3. Usage guide
+4. Project structure
+5. Detailed git setup steps
+6. Security considerations
+
+To properly upload to GitHub:
+1. Make sure `.env` is in your `.gitignore`
+2. Only commit the example environment file
+3. Use `git status` to verify no sensitive files are staged
+4. Follow the git setup steps exactly as shown
+5. Verify the push was successful and no API keys were exposed
